@@ -7,12 +7,10 @@
     ----------------------------------------------------------------- 
 
 
-Hi there! Welcome to Cloud9 IDE!
+This is the solution the I wroted for the nodeschool learnyounode.
+For more information. Please visit 
 
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
+https://github.com/workshopper/learnyounode
 
-Happy coding!
-The Cloud9 IDE team
+
+EDIT by Mingnan Wu 
